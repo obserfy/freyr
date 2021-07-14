@@ -99,8 +99,7 @@ const plugins = [
     },
   },
   `gatsby-plugin-postcss`,
-  // TODO: enable gatsby-plugin-netlify when it doesn't crash anymore
-  // `gatsby-plugin-netlify`,
+  `gatsby-plugin-gatsby-cloud`
   // {
   //   resolve: "gatsby-plugin-webpack-bundle-analyser-v2",
   //   options: {
