@@ -1,0 +1,341 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: \n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#: src/pages/pricing.tsx:28
+msgid "$4 per User/month"
+msgstr ""
+
+#: src/pages/index.tsx:38
+msgid "<0>Store</0> your student's data. <1>Plan</1> their lessons. And <2>share</2> it all with parents with ease, on one platform built for the need of Montessori Schools."
+msgstr ""
+
+#: src/pages/pricing.tsx:71
+msgid "A user is anyone with their own login access to the school's dashboard, such as teachers and teaching assistants."
+msgstr ""
+
+#: src/pages/index.tsx:247
+msgid "Allow parents to post observations at home about their children's task, and see observations that teachers had created."
+msgstr ""
+
+#: src/components/DocsSidebar.tsx:10
+msgid "Basics"
+msgstr ""
+
+#: src/pages/index.tsx:153
+msgid "Built with speed and simplicity in mind"
+msgstr ""
+
+#: src/pages/index.tsx:244
+msgid "Collaborate on Observations"
+msgstr ""
+
+#: src/pages/index.tsx:198
+msgid "Collaboration between parents and schools are important, especially in the post-COVID 19 world."
+msgstr ""
+
+#: src/components/DocsSidebar.tsx:7
+msgid "Concepts"
+msgstr ""
+
+#: src/components/DocsFooter.tsx:42
+#: src/components/Footer.tsx:42
+#: src/components/Header.tsx:185
+#: src/pages/contact.tsx:9
+#: src/pages/contact.tsx:13
+#: src/pages/index.tsx:56
+msgid "Contact Us"
+msgstr ""
+
+#: src/pages/pricing.tsx:37
+msgid "Create lesson plans"
+msgstr ""
+
+#: src/pages/index.tsx:179
+msgid "Dashboard for parents to see their child's progress in realtime"
+msgstr ""
+
+#: src/pages/index.tsx:88
+msgid "Digital record keeping"
+msgstr ""
+
+#: src/components/Header.tsx:33
+msgid "Docs"
+msgstr ""
+
+#: src/components/DocsFooter.tsx:25
+#: src/components/Footer.tsx:25
+msgid "Documentation"
+msgstr ""
+
+#: src/pages/index.tsx:144
+msgid "Easily keep track of your student's progress through your curriculum in one place, making building reports easier."
+msgstr ""
+
+#: src/pages/index.tsx:260
+msgid "Easily share photos of your students with their parents, and allow parents to post photos of their children doing tasks assigned to them outside of school."
+msgstr ""
+
+#: src/pages/contact.tsx:32
+msgid "Email"
+msgstr ""
+
+#: src/pages/pricing.tsx:65
+msgid "FAQ"
+msgstr ""
+
+#: src/components/DocsHeader.tsx:61
+#: src/components/Header.tsx:77
+msgid "For Parents"
+msgstr ""
+
+#: src/components/DocsHeader.tsx:66
+#: src/components/Header.tsx:82
+msgid "For Teachers"
+msgstr ""
+
+#: src/components/DocsSidebar.tsx:18
+msgid "Formatting using Markdown"
+msgstr ""
+
+#: src/pages/pricing.tsx:57
+msgid "Free 30-day trial"
+msgstr ""
+
+#: src/components/DocsSidebar.tsx:16
+msgid "Getting help"
+msgstr ""
+
+#: src/components/DocsFooter.tsx:39
+#: src/components/Footer.tsx:39
+msgid "GitHub"
+msgstr ""
+
+#: src/pages/index.tsx:295
+msgid "Give it a try now with a 30-days free trial"
+msgstr ""
+
+#: src/components/DocsSidebar.tsx:13
+msgid "Giving access to parents"
+msgstr ""
+
+#: src/pages/contact.tsx:16
+msgid "Have a question? Shoot us a message using this form. We'd love to talk with you about your need."
+msgstr ""
+
+#: src/pages/pricing.tsx:78
+msgid "How many student/parents can we have?"
+msgstr ""
+
+#: src/pages/pricing.tsx:46
+msgid "Image gallery"
+msgstr ""
+
+#: src/components/DocsSidebar.tsx:8
+msgid "Introductions"
+msgstr ""
+
+#: src/components/DocsSidebar.tsx:11
+msgid "Inviting your team"
+msgstr ""
+
+#: src/pages/privacy-policy.tsx:16
+msgid "Last updated"
+msgstr ""
+
+#: src/pages/index.tsx:223
+msgid "Let parents see and keep track of their child's progress through your school's curriculum in realtime."
+msgstr ""
+
+#: src/components/Header.tsx:128
+msgid "Links"
+msgstr ""
+
+#: src/pages/index.tsx:95
+msgid "Managing student records using paper and spreadsheets can be messy. Data can easily slip through the cracks."
+msgstr ""
+
+#: src/pages/contact.tsx:43
+msgid "Message"
+msgstr ""
+
+#: src/pages/index.tsx:26
+msgid "Montessori record keeping on phone and laptop"
+msgstr ""
+
+#: src/pages/index.tsx:17
+msgid "Montessori record keeping software"
+msgstr ""
+
+#: src/pages/index.tsx:18
+msgid "Montessori record keeping software and parent communication tool. Bridging the gap between schools and parents."
+msgstr ""
+
+#: src/pages/index.tsx:188
+msgid "Parent communication"
+msgstr ""
+
+#: src/pages/pricing.tsx:43
+msgid "Parent dashboard"
+msgstr ""
+
+#: src/pages/index.tsx:129
+msgid "Plan student's lesson"
+msgstr ""
+
+#: src/pages/index.tsx:132
+msgid "Plan your student's lesson ahead of time, and share them with other teachers, and even with parents."
+msgstr ""
+
+#: src/components/DocsFooter.tsx:26
+#: src/components/Footer.tsx:26
+#: src/components/Header.tsx:34
+#: src/components/Header.tsx:153
+#: src/pages/pricing.tsx:11
+msgid "Pricing"
+msgstr ""
+
+#: src/components/DocsFooter.tsx:43
+#: src/components/Footer.tsx:43
+#: src/pages/privacy-policy.tsx:12
+msgid "Privacy Policy"
+msgstr ""
+
+#: src/pages/index.tsx:117
+msgid "Record Observations"
+msgstr ""
+
+#: src/pages/pricing.tsx:34
+msgid "Record observations"
+msgstr ""
+
+#: src/components/DocsFooter.tsx:28
+#: src/components/Footer.tsx:28
+#: src/components/Header.tsx:35
+#: src/components/Header.tsx:161
+msgid "Roadmap"
+msgstr ""
+
+#: src/pages/index.tsx:35
+msgid "Run your Montessori School efficiently"
+msgstr ""
+
+#: src/pages/contact.tsx:51
+msgid "Send"
+msgstr ""
+
+#: src/pages/index.tsx:220
+msgid "Share curriculum progress with parents"
+msgstr ""
+
+#: src/pages/index.tsx:232
+msgid "Share lesson plans"
+msgstr ""
+
+#: src/pages/index.tsx:235
+msgid "Share lesson plans/tasks that parents can execute at home, along with some resources to guide them."
+msgstr ""
+
+#: src/pages/index.tsx:257
+msgid "Share photos"
+msgstr ""
+
+#: src/components/DocsHeader.tsx:30
+#: src/components/Header.tsx:47
+msgid "Sign In for Parents"
+msgstr ""
+
+#: src/components/DocsHeader.tsx:35
+#: src/components/Header.tsx:52
+msgid "Sign In for Teachers"
+msgstr ""
+
+#: src/pages/pricing.tsx:18
+msgid "Simple affordable pricing"
+msgstr ""
+
+#: src/pages/pricing.tsx:12
+msgid "Simple and affordable user based pricing"
+msgstr ""
+
+#: src/pages/index.tsx:92
+msgid "Simplifying the work that teachers do"
+msgstr ""
+
+#: src/pages/pricing.tsx:25
+msgid "Standard plan"
+msgstr ""
+
+#: src/pages/index.tsx:79
+msgid "Teacher dashboard for managing observations data"
+msgstr ""
+
+#: src/pages/index.tsx:192
+msgid "Tools for building a more transparent and collaborative schools"
+msgstr ""
+
+#: src/pages/pricing.tsx:40
+msgid "Track curriculum progress"
+msgstr ""
+
+#: src/pages/index.tsx:141
+msgid "Track student's curriculum progress"
+msgstr ""
+
+#: src/pages/index.tsx:51
+#: src/pages/index.tsx:300
+#: src/pages/pricing.tsx:53
+msgid "Try for Free"
+msgstr ""
+
+#: src/pages/index.tsx:292
+msgid "Try it now"
+msgstr ""
+
+#: src/pages/pricing.tsx:31
+msgid "Unlimited students"
+msgstr ""
+
+#: src/pages/pricing.tsx:81
+msgid "We don't charge or limit the number of students or parents that you work with."
+msgstr ""
+
+#: src/pages/index.tsx:156
+msgid "We focus on keeping Obserfy fast to help you get your job done faster, and easy to use even if you are new to Montessori."
+msgstr ""
+
+#: src/pages/index.tsx:101
+msgid "We help simplify teacher's work by providing <0>one simple place for you to keep your student records</0> so that your data are accessible for all teachers, and easily shareable to parents."
+msgstr ""
+
+#: src/pages/index.tsx:204
+msgid "We help you empower parents, providing custom dashboard for them to access and making it <0>easy to share your data and collaborate with parents on their child's education.</0>"
+msgstr ""
+
+#: src/pages/index.tsx:120
+msgid "We help you keep your student observation in one place, so its available to every teachers, anytime, anywhere."
+msgstr ""
+
+#: src/components/DocsFooter.tsx:32
+#: src/components/Footer.tsx:32
+#: src/components/Header.tsx:38
+#: src/components/Header.tsx:169
+msgid "What's New"
+msgstr ""
+
+#: src/pages/pricing.tsx:68
+msgid "Who counts as a User?"
+msgstr ""
+
+#: src/pages/pricing.tsx:87
+msgid "You can track as many students as you want and share access to the parent dashboard to as many people as you need without increasing the cost."
+msgstr ""
