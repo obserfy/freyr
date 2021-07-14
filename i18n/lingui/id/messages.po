@@ -1,51 +1,90 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-11-07 00:41+0700\n"
+"Mime-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: id\n"
+"Project-Id-Version: a9762ad8ff131d2a39fce5fce9d2fb91\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
+"PO-Revision-Date: 2020-12-04 13:35\n"
 "Last-Translator: \n"
-"Language: \n"
-"Language-Team: \n"
-"Content-Type: \n"
-"Content-Transfer-Encoding: \n"
-"Plural-Forms: \n"
+"Language-Team: Indonesian\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: a9762ad8ff131d2a39fce5fce9d2fb91\n"
+"X-Crowdin-Project-ID: 2\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /develop/apps/freyr/i18n/lingui/en/messages.po\n"
+"X-Crowdin-File-ID: 14\n"
+
+#: src/pages/contact.tsx:7
+#~ msgid "\"Contact Us"
+#~ msgstr "\"Contact Us"
 
 #: src/pages/pricing.tsx:28
 msgid "$4 per User/month"
-msgstr ""
+msgstr "$4 per Pengguna/bulan"
+
+#: src/pages/index.tsx:132
+#~ msgid "../images/gaia.png"
+#~ msgstr "../images/gaia.png"
+
+#: src/pages/index.tsx:37
+#~ msgid "<0>Store</0> your student data and observations. <1>Plan</1> their lessons. And <2>share</2> your data with parents with ease, on one platform built for the need of Montessori Schools."
+#~ msgstr "<0>Store</0> your student data and observations. <1>Plan</1> their lessons. And <2>share</2> your data with parents with ease, on one platform built for the need of Montessori Schools."
 
 #: src/pages/index.tsx:38
 msgid "<0>Store</0> your student's data. <1>Plan</1> their lessons. And <2>share</2> it all with parents with ease, on one platform built for the need of Montessori Schools."
-msgstr ""
+msgstr "<0>Simpan</0> data murid anda. <1>Rencanakan</1> pelajaran mereka. Dan <2>bagikan</2> itu semua dengan mudah ke wali murid, menggunakan satu platform yang di-design untuk memenuhi keperluan sekolah Montessori."
+
+#: src/pages/pricing.tsx:61
+#~ msgid "A user is anyone who has access to the school's dashboard, such as teachers and teaching assistants."
+#~ msgstr "A user is anyone who has access to the school's dashboard, such as teachers and teaching assistants."
 
 #: src/pages/pricing.tsx:71
 msgid "A user is anyone with their own login access to the school's dashboard, such as teachers and teaching assistants."
-msgstr ""
+msgstr "Pengguna adalah seseorang yang memiliki access untuk masuk ke dashboard sekolah anda, seperti guru dan assisten guru."
 
 #: src/pages/index.tsx:247
 msgid "Allow parents to post observations at home about their children's task, and see observations that teachers had created."
-msgstr ""
+msgstr "Dapatkan observasi dari wali murid anda tentang pembelajaran murid anda dirumah. Dan buat mereka bisa melihat observasi di sekolah."
 
 #: src/components/DocsSidebar.tsx:10
 msgid "Basics"
 msgstr ""
 
+#: src/components/header.tsx:32
+#~ msgid "Blog"
+#~ msgstr "Blog"
+
 #: src/pages/index.tsx:153
 msgid "Built with speed and simplicity in mind"
-msgstr ""
+msgstr "Dibuat untuk mudah dan cepat saat digunakan"
+
+#: src/templates/docs.js:30
+#~ msgid "Classes"
+#~ msgstr ""
 
 #: src/pages/index.tsx:244
 msgid "Collaborate on Observations"
-msgstr ""
+msgstr "Berkolaborasi dalam Observasi"
+
+#: src/templates/docs.js:40
+#~ msgid "Collaborating with parents"
+#~ msgstr ""
 
 #: src/pages/index.tsx:198
 msgid "Collaboration between parents and schools are important, especially in the post-COVID 19 world."
-msgstr ""
+msgstr "Kolaborasi antara wali murid dan sekolah adalah hal yang penting, terutama setelah COVID-19 melanda dunia."
+
+#: src/pages/index.tsx:124
+#~ msgid "Collaboration between parents and schools are important, especially in the post-COVID 19 world. We help you empower parents by providing custom dashboard for them to access, <0>making it easy to share your data and collaborate with parents on their child's education.</0>"
+#~ msgstr "Collaboration between parents and schools are important, especially in the post-COVID 19 world. We help you empower parents by providing custom dashboard for them to access, <0>making it easy to share your data and collaborate with parents on their child's education.</0>"
 
 #: src/components/DocsSidebar.tsx:7
 msgid "Concepts"
-msgstr ""
+msgstr "Konsep"
 
 #: src/components/DocsFooter.tsx:42
 #: src/components/Footer.tsx:42
@@ -54,123 +93,176 @@ msgstr ""
 #: src/pages/contact.tsx:13
 #: src/pages/index.tsx:56
 msgid "Contact Us"
-msgstr ""
+msgstr "Hubungi Kami"
+
+#: src/templates/docs.js:51
+#~ msgid "Contacting us"
+#~ msgstr ""
+
+#: src/templates/docs.js:55
+#~ msgid "Contributing"
+#~ msgstr ""
 
 #: src/pages/pricing.tsx:37
 msgid "Create lesson plans"
-msgstr ""
+msgstr "Rencanakan pembelajaran"
+
+#: src/components/DocsSidebar.tsx:15
+#~ msgid "Curriculum"
+#~ msgstr ""
 
 #: src/pages/index.tsx:179
 msgid "Dashboard for parents to see their child's progress in realtime"
-msgstr ""
+msgstr "Dashboard khusus wali murid untuk mengikuti progres anak mereka secara realtime"
 
 #: src/pages/index.tsx:88
 msgid "Digital record keeping"
-msgstr ""
+msgstr "Pencatatan data secara digital"
 
 #: src/components/Header.tsx:33
 msgid "Docs"
-msgstr ""
+msgstr "Docs"
 
 #: src/components/DocsFooter.tsx:25
 #: src/components/Footer.tsx:25
 msgid "Documentation"
-msgstr ""
+msgstr "Dokumentasi"
 
 #: src/pages/index.tsx:144
 msgid "Easily keep track of your student's progress through your curriculum in one place, making building reports easier."
-msgstr ""
+msgstr "Ikuti progress murid anda dalam kurikulum sekolah anda di satu tempat, buatlah pembuatan laporan anda lebih mudah."
 
 #: src/pages/index.tsx:260
 msgid "Easily share photos of your students with their parents, and allow parents to post photos of their children doing tasks assigned to them outside of school."
-msgstr ""
+msgstr "Bagikan foto murid anda ke orang tua mereka dengan mudah, dan dapatkan foto dari orang tua mereka tentang kegiatan pembelajaran murid anda diluar sekolah."
 
 #: src/pages/contact.tsx:32
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: src/pages/pricing.tsx:65
 msgid "FAQ"
-msgstr ""
+msgstr "FAQ"
 
 #: src/components/DocsHeader.tsx:61
 #: src/components/Header.tsx:77
 msgid "For Parents"
-msgstr ""
+msgstr "Untuk Wali Murid"
 
 #: src/components/DocsHeader.tsx:66
 #: src/components/Header.tsx:82
 msgid "For Teachers"
-msgstr ""
+msgstr "Untuk Guru"
 
 #: src/components/DocsSidebar.tsx:18
 msgid "Formatting using Markdown"
-msgstr ""
+msgstr "Format teks menggunakan Markdown"
 
 #: src/pages/pricing.tsx:57
 msgid "Free 30-day trial"
-msgstr ""
+msgstr "Gratis uji coba 30-hari"
+
+#: src/pages/index.tsx:25
+#~ msgid "Get Early Access"
+#~ msgstr "Get Early Access"
+
+#: src/pages/index.tsx:247
+#~ msgid "Get started now"
+#~ msgstr "Get started now"
 
 #: src/components/DocsSidebar.tsx:16
 msgid "Getting help"
-msgstr ""
+msgstr "Mencari bantuan"
+
+#: src/components/DocsSidebar.tsx:11
+#~ msgid "Getting support"
+#~ msgstr "Dapatkan bantuan"
 
 #: src/components/DocsFooter.tsx:39
 #: src/components/Footer.tsx:39
 msgid "GitHub"
 msgstr ""
 
+#: src/pages/index.tsx:250
+#~ msgid "Give it a try and see how we can help improve your school."
+#~ msgstr "Give it a try and see how we can help improve your school."
+
 #: src/pages/index.tsx:295
 msgid "Give it a try now with a 30-days free trial"
-msgstr ""
+msgstr "Mulai sekarang dengan uji coba gratis selama 30-hari"
 
 #: src/components/DocsSidebar.tsx:13
 msgid "Giving access to parents"
-msgstr ""
+msgstr "Memberi akses ke orang tua"
 
 #: src/pages/contact.tsx:16
 msgid "Have a question? Shoot us a message using this form. We'd love to talk with you about your need."
-msgstr ""
+msgstr "Punya pertanyaan? Kirimkan pesan ke kami menggunakan form disamping."
+
+#: src/pages/index.tsx:66
+#~ msgid "Helping teachers to be more productive"
+#~ msgstr "Helping teachers to be more productive"
+
+#: src/pages/index.tsx:69
+#~ msgid "Helping to simplify the work that teachers do"
+#~ msgstr "Helping to simplify the work that teachers do"
 
 #: src/pages/pricing.tsx:78
 msgid "How many student/parents can we have?"
-msgstr ""
+msgstr "Berapa banyak murid/wali murid yang bisa kita masukan?"
 
 #: src/pages/pricing.tsx:46
 msgid "Image gallery"
-msgstr ""
+msgstr "Galeri Gambar"
 
 #: src/components/DocsSidebar.tsx:8
 msgid "Introductions"
-msgstr ""
+msgstr "Pengenalan"
 
 #: src/components/DocsSidebar.tsx:11
 msgid "Inviting your team"
-msgstr ""
+msgstr "Undang tim anda"
 
 #: src/pages/privacy-policy.tsx:16
 msgid "Last updated"
-msgstr ""
+msgstr "Perubahan terakhir"
+
+#: src/pages/index.tsx:85
+#: src/pages/index.tsx:168
+#~ msgid "Learn More"
+#~ msgstr "Learn More"
+
+#: src/pages/index.tsx:180
+#~ msgid "Let parents see and keep track of their child's progress through through your school's curriculum."
+#~ msgstr "Let parents see and keep track of their child's progress through through your school's curriculum."
 
 #: src/pages/index.tsx:223
 msgid "Let parents see and keep track of their child's progress through your school's curriculum in realtime."
-msgstr ""
+msgstr "Berikan orang tua kemampuan untuk mengikuti perkemabangan anak mereka melalu kurikulum sekolah anda secara realtime."
 
 #: src/components/Header.tsx:128
 msgid "Links"
-msgstr ""
+msgstr "Links"
 
 #: src/pages/index.tsx:95
 msgid "Managing student records using paper and spreadsheets can be messy. Data can easily slip through the cracks."
-msgstr ""
+msgstr "Mengurus data murid menggunakan kertas dan spreadsheets tidaklah mudah. Data hilang terselip adalah biasa."
+
+#: src/pages/index.tsx:69
+#~ msgid "Managing student records using paper and spreadsheets can be messy. Data can sometimes slip through the cracks."
+#~ msgstr "Managing student records using paper and spreadsheets can be messy. Data can sometimes slip through the cracks."
+
+#: src/components/DocsSidebar.tsx:12
+#~ msgid "Markdown support"
+#~ msgstr "Format teks menggunakan Markdown"
 
 #: src/pages/contact.tsx:43
 msgid "Message"
-msgstr ""
+msgstr "Pesan"
 
 #: src/pages/index.tsx:26
 msgid "Montessori record keeping on phone and laptop"
-msgstr ""
+msgstr "Pencatatan data Montessori menggunakan hp dan laptop."
 
 #: src/pages/index.tsx:17
 msgid "Montessori record keeping software"
@@ -182,19 +274,23 @@ msgstr ""
 
 #: src/pages/index.tsx:188
 msgid "Parent communication"
-msgstr ""
+msgstr "Komunikasi dengan wali murid"
 
 #: src/pages/pricing.tsx:43
 msgid "Parent dashboard"
-msgstr ""
+msgstr "Dashboard wali murid"
+
+#: src/components/Header.tsx:40
+#~ msgid "Parents"
+#~ msgstr "Wali Murid"
 
 #: src/pages/index.tsx:129
 msgid "Plan student's lesson"
-msgstr ""
+msgstr "Rencanakan pembelajaran murid anda"
 
 #: src/pages/index.tsx:132
 msgid "Plan your student's lesson ahead of time, and share them with other teachers, and even with parents."
-msgstr ""
+msgstr "Rencanakan pembelajaran murid anda selama beberapa waktu kedepan, dan bagikan ke guru dan orang tua."
 
 #: src/components/DocsFooter.tsx:26
 #: src/components/Footer.tsx:26
@@ -202,140 +298,180 @@ msgstr ""
 #: src/components/Header.tsx:153
 #: src/pages/pricing.tsx:11
 msgid "Pricing"
-msgstr ""
+msgstr "Harga"
 
 #: src/components/DocsFooter.tsx:43
 #: src/components/Footer.tsx:43
 #: src/pages/privacy-policy.tsx:12
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Kebijakan Privasi"
+
+#: src/pages/index.tsx:34
+#~ msgid "Record Keeping & Communication tool for Montessori Schools"
+#~ msgstr "Software manajemen data dan komunikasi untuk sekolah Montessori"
+
+#: src/pages/index.tsx:8
+#~ msgid "Record Keeping & Parent Communication tool for Montessori Schools"
+#~ msgstr "Record Keeping & Parent Communication tool for Montessori Schools"
+
+#: src/pages/index.tsx:8
+#~ msgid "Record Keeping and Communication tool for Montessori Schools"
+#~ msgstr "Record Keeping and Communication tool for Montessori Schools"
 
 #: src/pages/index.tsx:117
 msgid "Record Observations"
-msgstr ""
+msgstr "Catat Observasi"
 
 #: src/pages/pricing.tsx:34
 msgid "Record observations"
-msgstr ""
+msgstr "Catat observasi"
 
 #: src/components/DocsFooter.tsx:28
 #: src/components/Footer.tsx:28
 #: src/components/Header.tsx:35
 #: src/components/Header.tsx:161
 msgid "Roadmap"
-msgstr ""
+msgstr "Roadmap"
 
 #: src/pages/index.tsx:35
 msgid "Run your Montessori School efficiently"
-msgstr ""
+msgstr "Jalankan sekolah Montessori anda dengan efisien"
+
+#: src/components/DocsSidebar.tsx:14
+#~ msgid "School"
+#~ msgstr ""
 
 #: src/pages/contact.tsx:51
 msgid "Send"
-msgstr ""
+msgstr "Kirim"
 
 #: src/pages/index.tsx:220
 msgid "Share curriculum progress with parents"
-msgstr ""
+msgstr "Bagikan progress kurikulum ke wali murid"
 
 #: src/pages/index.tsx:232
 msgid "Share lesson plans"
-msgstr ""
+msgstr "Bagikan rencana pembelajaran"
 
 #: src/pages/index.tsx:235
 msgid "Share lesson plans/tasks that parents can execute at home, along with some resources to guide them."
-msgstr ""
+msgstr "Bagikan rencana pembelajaran/tugas yang dapat orang tua laksanakan dirumah, dengan beberapa penjelasan untuk memimpin mereka"
 
 #: src/pages/index.tsx:257
 msgid "Share photos"
-msgstr ""
+msgstr "Bagikan foto"
 
 #: src/components/DocsHeader.tsx:30
 #: src/components/Header.tsx:47
 msgid "Sign In for Parents"
-msgstr ""
+msgstr "Masuk untuk Wali Murid"
 
 #: src/components/DocsHeader.tsx:35
 #: src/components/Header.tsx:52
 msgid "Sign In for Teachers"
-msgstr ""
+msgstr "Masuk untuk Guru"
 
 #: src/pages/pricing.tsx:18
 msgid "Simple affordable pricing"
-msgstr ""
+msgstr "Harga simple dan terjangkau"
 
 #: src/pages/pricing.tsx:12
 msgid "Simple and affordable user based pricing"
-msgstr ""
+msgstr "Harga simple dan terjangkau yang berbasikan pada jumlah pengguna."
 
 #: src/pages/index.tsx:92
 msgid "Simplifying the work that teachers do"
-msgstr ""
+msgstr "Mempermudah pekerjaan guru."
 
 #: src/pages/pricing.tsx:25
 msgid "Standard plan"
 msgstr ""
 
+#: src/pages/index.tsx:15
+#~ msgid "Store your student data and observations. Plan their lessons. And communicate it all to parents with ease, using one platform built for the need of Montessori Schools."
+#~ msgstr "Store your student data and observations. Plan their lessons. And communicate it all to parents with ease, using one platform built for the need of Montessori Schools."
+
 #: src/pages/index.tsx:79
 msgid "Teacher dashboard for managing observations data"
-msgstr ""
+msgstr "Dashboard guru untuk mengurus data observasi"
+
+#: src/components/Header.tsx:45
+#~ msgid "Teachers"
+#~ msgstr "Guru"
 
 #: src/pages/index.tsx:192
 msgid "Tools for building a more transparent and collaborative schools"
-msgstr ""
+msgstr "Sofware untuk membuat sekolah yang lebih transparan dan kolaboratif"
+
+#: src/pages/index.tsx:149
+#~ msgid "Tools to build more transparent and collaborative schools"
+#~ msgstr "Tools to build more transparent and collaborative schools"
 
 #: src/pages/pricing.tsx:40
 msgid "Track curriculum progress"
-msgstr ""
+msgstr "Track progres di kurikulum"
 
 #: src/pages/index.tsx:141
 msgid "Track student's curriculum progress"
-msgstr ""
+msgstr "Track progres murid dalam kurikulum"
 
 #: src/pages/index.tsx:51
 #: src/pages/index.tsx:300
 #: src/pages/pricing.tsx:53
 msgid "Try for Free"
-msgstr ""
+msgstr "Coba Gratis"
 
 #: src/pages/index.tsx:292
 msgid "Try it now"
-msgstr ""
+msgstr "Coba sekarang"
 
 #: src/pages/pricing.tsx:31
 msgid "Unlimited students"
-msgstr ""
+msgstr "Jumlah murid tak terbatas"
+
+#: src/components/DocsSidebar.tsx:12
+#~ msgid "Using Markdown"
+#~ msgstr ""
 
 #: src/pages/pricing.tsx:81
 msgid "We don't charge or limit the number of students or parents that you work with."
-msgstr ""
+msgstr "Kami tidak menghitung atau membatasi jumlah murid atau wali murid yang anda catat."
+
+#: src/pages/pricing.tsx:71
+#~ msgid "We don't put limitation to the number of students or parents you can work with."
+#~ msgstr "We don't put limitation to the number of students or parents you can work with."
 
 #: src/pages/index.tsx:156
 msgid "We focus on keeping Obserfy fast to help you get your job done faster, and easy to use even if you are new to Montessori."
-msgstr ""
+msgstr "Kita fokus menjaga Obserfy tetap cepat agar pekerjaan anda lebih cepat selesai, dan kami berusaha menjaga Obserfy untuk mudah digunakan bahkan bagi sekolah Montessori baru."
 
 #: src/pages/index.tsx:101
 msgid "We help simplify teacher's work by providing <0>one simple place for you to keep your student records</0> so that your data are accessible for all teachers, and easily shareable to parents."
-msgstr ""
+msgstr "Kita membantu mempermudah pekerjaan guru dengan memberikan <0>satu tempat simple untuk mencatat data murid</0> agar data murid anda selalu tersedia bagi selurah guru, dan dapat di bagikan dengan mudah ke wali murid."
 
 #: src/pages/index.tsx:204
 msgid "We help you empower parents, providing custom dashboard for them to access and making it <0>easy to share your data and collaborate with parents on their child's education.</0>"
-msgstr ""
+msgstr "Kami membantu anda untuk men-support orang tua, dashboard khusus kami membuat <0>membagikan data dan kolaborasi dengan orang tua lebih mudah.</0>"
 
 #: src/pages/index.tsx:120
 msgid "We help you keep your student observation in one place, so its available to every teachers, anytime, anywhere."
-msgstr ""
+msgstr "Kami membantu anda untuk menyimpan observasi murid anda di satu tempat, sehingga semua guru dapat mengakses-nya kapanpun, dimanapun."
+
+#: src/pages/pricing.tsx:58
+#~ msgid "What counts as a User?"
+#~ msgstr "What counts as a User?"
 
 #: src/components/DocsFooter.tsx:32
 #: src/components/Footer.tsx:32
 #: src/components/Header.tsx:38
 #: src/components/Header.tsx:169
 msgid "What's New"
-msgstr ""
+msgstr "Update Terbaru"
 
 #: src/pages/pricing.tsx:68
 msgid "Who counts as a User?"
-msgstr ""
+msgstr "Siapa yang termasuk sebagai Pengguna?"
 
 #: src/pages/pricing.tsx:87
 msgid "You can track as many students as you want and share access to the parent dashboard to as many people as you need without increasing the cost."
-msgstr ""
+msgstr "Anda bisa mencatat data murid sebanyak yang anda butuhkan dan anda dapat membagikan akses ke Dashboard wali murid ke siapapun yang membutuhkan tanpa menaikan biaya anda."
