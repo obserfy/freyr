@@ -9,8 +9,6 @@ module.exports = {
     "plugin:import/warnings",
     "plugin:import/typescript",
     "plugin:prettier/recommended",
-    "prettier/@typescript-eslint",
-    "prettier/react",
   ],
   rules: {
     "no-undef": 0,
@@ -21,7 +19,7 @@ module.exports = {
     // Recommended for immer.
     "no-param-reassign": [
       "error",
-      { props: true, ignorePropertyModificationsFor: ["draft"] },
+      {props: true, ignorePropertyModificationsFor: ["draft"]},
     ],
     "import/no-extraneous-dependencies": [
       "error",
@@ -44,7 +42,7 @@ module.exports = {
     "import/no-cycle": "off",
     "import/extensions": "off",
     "import/prefer-default-export": 0,
-    "@typescript-eslint/no-use-before-define": ["error", { variables: false }],
+    "@typescript-eslint/no-use-before-define": ["error", {variables: false}],
     "no-unused-expressions": "off",
     "no-restricted-imports": [
       "error",
