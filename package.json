@@ -40,7 +40,7 @@
     "gatsby-transformer-remark": "4.7.0",
     "gatsby-transformer-sharp": "3.10.0",
     "make-plural": "6.2.2",
-    "postcss": "8.3.5",
+    "postcss": "8.3.6",
     "postcss-preset-env": "6.7.0",
     "preact": "10.5.14",
     "preact-render-to-string": "5.1.19",
