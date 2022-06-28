@@ -106,6 +106,6 @@
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "lint-staged": {
-    "*.{tsx,ts}": "eslint --cache --fix"
+    "*.{tsx,ts}": "prettier -w"
   }
 }

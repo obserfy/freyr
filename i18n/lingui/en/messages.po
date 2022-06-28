@@ -12,14 +12,18 @@ msgstr ""
 "Plural-Forms: \n"
 
 #: src/pages/pricing.tsx:28
-msgid "$4 per User/month"
-msgstr "$4 per User/month"
+#~ msgid "$4 per User/month"
+#~ msgstr "$4 per User/month"
+
+#: src/pages/pricing.tsx:29
+msgid "4 USD"
+msgstr "4 USD"
 
 #: src/pages/index.tsx:38
 msgid "<0>Store</0> your student's data. <1>Plan</1> their lessons. And <2>share</2> it all with parents with ease, on one platform built for the need of Montessori Schools."
 msgstr "<0>Store</0> your student's data. <1>Plan</1> their lessons. And <2>share</2> it all with parents with ease, on one platform built for the need of Montessori Schools."
 
-#: src/pages/pricing.tsx:71
+#: src/pages/pricing.tsx:78
 msgid "A user is anyone with their own login access to the school's dashboard, such as teachers and teaching assistants."
 msgstr "A user is anyone with their own login access to the school's dashboard, such as teachers and teaching assistants."
 
@@ -56,7 +60,7 @@ msgstr "Concepts"
 msgid "Contact Us"
 msgstr "Contact Us"
 
-#: src/pages/pricing.tsx:37
+#: src/pages/pricing.tsx:44
 msgid "Create lesson plans"
 msgstr "Create lesson plans"
 
@@ -89,7 +93,7 @@ msgstr "Easily share photos of your students with their parents, and allow paren
 msgid "Email"
 msgstr "Email"
 
-#: src/pages/pricing.tsx:65
+#: src/pages/pricing.tsx:72
 msgid "FAQ"
 msgstr "FAQ"
 
@@ -107,7 +111,7 @@ msgstr "For Teachers"
 msgid "Formatting using Markdown"
 msgstr "Formatting using Markdown"
 
-#: src/pages/pricing.tsx:57
+#: src/pages/pricing.tsx:64
 msgid "Free 30-day trial"
 msgstr "Free 30-day trial"
 
@@ -132,11 +136,11 @@ msgstr "Giving access to parents"
 msgid "Have a question? Shoot us a message using this form. We'd love to talk with you about your need."
 msgstr "Have a question? Shoot us a message using this form. We'd love to talk with you about your need."
 
-#: src/pages/pricing.tsx:78
+#: src/pages/pricing.tsx:85
 msgid "How many student/parents can we have?"
 msgstr "How many student/parents can we have?"
 
-#: src/pages/pricing.tsx:46
+#: src/pages/pricing.tsx:53
 msgid "Image gallery"
 msgstr "Image gallery"
 
@@ -184,9 +188,13 @@ msgstr "Montessori record keeping software and parent communication tool. Bridgi
 msgid "Parent communication"
 msgstr "Parent communication"
 
-#: src/pages/pricing.tsx:43
+#: src/pages/pricing.tsx:50
 msgid "Parent dashboard"
 msgstr "Parent dashboard"
+
+#: src/pages/pricing.tsx:34
+msgid "Per User/Month"
+msgstr "Per User/Month"
 
 #: src/pages/index.tsx:129
 msgid "Plan student's lesson"
@@ -214,7 +222,7 @@ msgstr "Privacy Policy"
 msgid "Record Observations"
 msgstr "Record Observations"
 
-#: src/pages/pricing.tsx:34
+#: src/pages/pricing.tsx:41
 msgid "Record observations"
 msgstr "Record observations"
 
@@ -283,7 +291,7 @@ msgstr "Teacher dashboard for managing observations data"
 msgid "Tools for building a more transparent and collaborative schools"
 msgstr "Tools for building a more transparent and collaborative schools"
 
-#: src/pages/pricing.tsx:40
+#: src/pages/pricing.tsx:47
 msgid "Track curriculum progress"
 msgstr "Track curriculum progress"
 
@@ -293,7 +301,7 @@ msgstr "Track student's curriculum progress"
 
 #: src/pages/index.tsx:51
 #: src/pages/index.tsx:300
-#: src/pages/pricing.tsx:53
+#: src/pages/pricing.tsx:60
 msgid "Try for Free"
 msgstr "Try for Free"
 
@@ -301,11 +309,11 @@ msgstr "Try for Free"
 msgid "Try it now"
 msgstr "Try it now"
 
-#: src/pages/pricing.tsx:31
+#: src/pages/pricing.tsx:38
 msgid "Unlimited students"
 msgstr "Unlimited students"
 
-#: src/pages/pricing.tsx:81
+#: src/pages/pricing.tsx:88
 msgid "We don't charge or limit the number of students or parents that you work with."
 msgstr "We don't charge or limit the number of students or parents that you work with."
 
@@ -332,10 +340,10 @@ msgstr "We help you keep your student observation in one place, so its available
 msgid "What's New"
 msgstr "What's New"
 
-#: src/pages/pricing.tsx:68
+#: src/pages/pricing.tsx:75
 msgid "Who counts as a User?"
 msgstr "Who counts as a User?"
 
-#: src/pages/pricing.tsx:87
+#: src/pages/pricing.tsx:94
 msgid "You can track as many students as you want and share access to the parent dashboard to as many people as you need without increasing the cost."
 msgstr "You can track as many students as you want and share access to the parent dashboard to as many people as you need without increasing the cost."

@@ -24,9 +24,16 @@ const PricingPage: FC = () => {
               <h4 className="text-center my-6">
                 <Trans>Standard plan</Trans>
               </h4>
-              <h2 className="mr-1 m-0 text-center mb-8">
-                <Trans>$4 per User/month</Trans>
+              <h2 className="mr-1 m-0 text-center text-3xl">
+                <span className={"font-black"}>
+                  <Trans>4 USD</Trans>
+                </span>
+                <br />
               </h2>
+              <p className={"font-normal text-base mb-8 text-center"}>
+                <Trans>Per User/Month</Trans>
+              </p>
+
               <p className="m-3 text-center">
                 <Trans>Unlimited students</Trans>
               </p>

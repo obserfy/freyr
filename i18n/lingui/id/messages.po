@@ -23,12 +23,16 @@ msgstr ""
 #~ msgstr "\"Contact Us"
 
 #: src/pages/pricing.tsx:28
-msgid "$4 per User/month"
-msgstr "$4 per Pengguna/bulan"
+#~ msgid "$4 per User/month"
+#~ msgstr "4 USD / 60k IDR per Pengguna/bulan"
 
 #: src/pages/index.tsx:132
 #~ msgid "../images/gaia.png"
 #~ msgstr "../images/gaia.png"
+
+#: src/pages/pricing.tsx:29
+msgid "4 USD"
+msgstr "4 USD"
 
 #: src/pages/index.tsx:37
 #~ msgid "<0>Store</0> your student data and observations. <1>Plan</1> their lessons. And <2>share</2> your data with parents with ease, on one platform built for the need of Montessori Schools."
@@ -42,7 +46,7 @@ msgstr "<0>Simpan</0> data murid anda. <1>Rencanakan</1> pelajaran mereka. Dan <
 #~ msgid "A user is anyone who has access to the school's dashboard, such as teachers and teaching assistants."
 #~ msgstr "A user is anyone who has access to the school's dashboard, such as teachers and teaching assistants."
 
-#: src/pages/pricing.tsx:71
+#: src/pages/pricing.tsx:78
 msgid "A user is anyone with their own login access to the school's dashboard, such as teachers and teaching assistants."
 msgstr "Pengguna adalah seseorang yang memiliki access untuk masuk ke dashboard sekolah anda, seperti guru dan assisten guru."
 
@@ -103,7 +107,7 @@ msgstr "Hubungi Kami"
 #~ msgid "Contributing"
 #~ msgstr ""
 
-#: src/pages/pricing.tsx:37
+#: src/pages/pricing.tsx:44
 msgid "Create lesson plans"
 msgstr "Rencanakan pembelajaran"
 
@@ -140,7 +144,7 @@ msgstr "Bagikan foto murid anda ke orang tua mereka dengan mudah, dan dapatkan f
 msgid "Email"
 msgstr "Email"
 
-#: src/pages/pricing.tsx:65
+#: src/pages/pricing.tsx:72
 msgid "FAQ"
 msgstr "FAQ"
 
@@ -158,7 +162,7 @@ msgstr "Untuk Guru"
 msgid "Formatting using Markdown"
 msgstr "Format teks menggunakan Markdown"
 
-#: src/pages/pricing.tsx:57
+#: src/pages/pricing.tsx:64
 msgid "Free 30-day trial"
 msgstr "Gratis uji coba 30-hari"
 
@@ -207,11 +211,11 @@ msgstr "Punya pertanyaan? Kirimkan pesan ke kami menggunakan form disamping."
 #~ msgid "Helping to simplify the work that teachers do"
 #~ msgstr "Helping to simplify the work that teachers do"
 
-#: src/pages/pricing.tsx:78
+#: src/pages/pricing.tsx:85
 msgid "How many student/parents can we have?"
 msgstr "Berapa banyak murid/wali murid yang bisa kita masukan?"
 
-#: src/pages/pricing.tsx:46
+#: src/pages/pricing.tsx:53
 msgid "Image gallery"
 msgstr "Galeri Gambar"
 
@@ -276,13 +280,17 @@ msgstr ""
 msgid "Parent communication"
 msgstr "Komunikasi dengan wali murid"
 
-#: src/pages/pricing.tsx:43
+#: src/pages/pricing.tsx:50
 msgid "Parent dashboard"
 msgstr "Dashboard wali murid"
 
 #: src/components/Header.tsx:40
 #~ msgid "Parents"
 #~ msgstr "Wali Murid"
+
+#: src/pages/pricing.tsx:34
+msgid "Per User/Month"
+msgstr "(60K IDR) Per User/Bulan"
 
 #: src/pages/index.tsx:129
 msgid "Plan student's lesson"
@@ -322,7 +330,7 @@ msgstr "Kebijakan Privasi"
 msgid "Record Observations"
 msgstr "Catat Observasi"
 
-#: src/pages/pricing.tsx:34
+#: src/pages/pricing.tsx:41
 msgid "Record observations"
 msgstr "Catat observasi"
 
@@ -407,7 +415,7 @@ msgstr "Sofware untuk membuat sekolah yang lebih transparan dan kolaboratif"
 #~ msgid "Tools to build more transparent and collaborative schools"
 #~ msgstr "Tools to build more transparent and collaborative schools"
 
-#: src/pages/pricing.tsx:40
+#: src/pages/pricing.tsx:47
 msgid "Track curriculum progress"
 msgstr "Track progres di kurikulum"
 
@@ -417,7 +425,7 @@ msgstr "Track progres murid dalam kurikulum"
 
 #: src/pages/index.tsx:51
 #: src/pages/index.tsx:300
-#: src/pages/pricing.tsx:53
+#: src/pages/pricing.tsx:60
 msgid "Try for Free"
 msgstr "Coba Gratis"
 
@@ -425,7 +433,7 @@ msgstr "Coba Gratis"
 msgid "Try it now"
 msgstr "Coba sekarang"
 
-#: src/pages/pricing.tsx:31
+#: src/pages/pricing.tsx:38
 msgid "Unlimited students"
 msgstr "Jumlah murid tak terbatas"
 
@@ -433,7 +441,7 @@ msgstr "Jumlah murid tak terbatas"
 #~ msgid "Using Markdown"
 #~ msgstr ""
 
-#: src/pages/pricing.tsx:81
+#: src/pages/pricing.tsx:88
 msgid "We don't charge or limit the number of students or parents that you work with."
 msgstr "Kami tidak menghitung atau membatasi jumlah murid atau wali murid yang anda catat."
 
@@ -468,10 +476,10 @@ msgstr "Kami membantu anda untuk menyimpan observasi murid anda di satu tempat, 
 msgid "What's New"
 msgstr "Update Terbaru"
 
-#: src/pages/pricing.tsx:68
+#: src/pages/pricing.tsx:75
 msgid "Who counts as a User?"
 msgstr "Siapa yang termasuk sebagai Pengguna?"
 
-#: src/pages/pricing.tsx:87
+#: src/pages/pricing.tsx:94
 msgid "You can track as many students as you want and share access to the parent dashboard to as many people as you need without increasing the cost."
 msgstr "Anda bisa mencatat data murid sebanyak yang anda butuhkan dan anda dapat membagikan akses ke Dashboard wali murid ke siapapun yang membutuhkan tanpa menaikan biaya anda."
