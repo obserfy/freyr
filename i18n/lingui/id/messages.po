@@ -56,7 +56,7 @@ msgstr "Dapatkan observasi dari wali murid anda tentang pembelajaran murid anda 
 
 #: src/components/DocsSidebar.tsx:10
 msgid "Basics"
-msgstr ""
+msgstr "Basics"
 
 #: src/components/header.tsx:32
 #~ msgid "Blog"
@@ -393,7 +393,7 @@ msgstr "Mempermudah pekerjaan guru."
 
 #: src/pages/pricing.tsx:25
 msgid "Standard plan"
-msgstr ""
+msgstr "Standard Plan"
 
 #: src/pages/index.tsx:15
 #~ msgid "Store your student data and observations. Plan their lessons. And communicate it all to parents with ease, using one platform built for the need of Montessori Schools."
