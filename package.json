@@ -54,7 +54,7 @@
   "devDependencies": {
     "@babel/core": "7.17.9",
     "@babel/preset-typescript": "7.16.7",
-    "@types/react": "17.0.44",
+    "@types/react": "17.0.50",
     "@types/react-helmet": "6.1.5",
     "@typescript-eslint/eslint-plugin": "4.31.2",
     "@typescript-eslint/parser": "4.31.2",
