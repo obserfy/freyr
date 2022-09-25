@@ -19,7 +19,7 @@
     "gatsby-plugin-gatsby-cloud": "3.2.1",
     "gatsby-plugin-image": "1.14.2",
     "gatsby-plugin-manifest": "3.14.0",
-    "gatsby-plugin-mdx": "2.14.0",
+    "gatsby-plugin-mdx": "2.14.2",
     "gatsby-plugin-netlify": "3.14.0",
     "gatsby-plugin-netlify-cache": "2.0.0",
     "gatsby-plugin-offline": "4.14.0",
