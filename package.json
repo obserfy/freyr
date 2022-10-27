@@ -52,7 +52,7 @@
     "socket.io-client": "4.2.0"
   },
   "devDependencies": {
-    "@babel/core": "7.19.1",
+    "@babel/core": "7.19.6",
     "@babel/preset-typescript": "7.18.6",
     "@types/react": "17.0.50",
     "@types/react-helmet": "6.1.5",
