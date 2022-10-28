@@ -61,7 +61,7 @@
     "babel-core": "7.0.0-bridge.0",
     "babel-preset-gatsby": "1.14.0",
     "eslint": "8.26.0",
-    "eslint-config-airbnb-typescript": "14.0.2",
+    "eslint-config-airbnb-typescript": "17.0.0",
     "eslint-config-prettier": "8.5.0",
     "eslint-import-resolver-node": "0.3.6",
     "eslint-plugin-import": "2.26.0",
