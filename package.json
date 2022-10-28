@@ -39,7 +39,7 @@
     "gatsby-theme-i18n-lingui": "2.0.0",
     "gatsby-transformer-remark": "4.11.0",
     "gatsby-transformer-sharp": "3.14.0",
-    "make-plural": "7.0.0",
+    "make-plural": "7.1.0",
     "postcss": "8.4.18",
     "postcss-preset-env": "6.7.1",
     "preact": "10.7.1",
