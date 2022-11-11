@@ -8072,10 +8072,10 @@ gatsby-telemetry@^2.14.0:
     node-fetch "^2.6.1"
     uuid "3.4.0"
 
-gatsby-theme-i18n-lingui@2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-i18n-lingui/-/gatsby-theme-i18n-lingui-2.0.0.tgz#aee9b83453728f92919004e6c2b78000f4c2a828"
-  integrity sha512-rvWbbISwnFiSuxvxES0ahwAbp2kdgkLcYxhxmT2JGnP1LOyFaBJAbIqH+4KRxT2mzxHNY0JBxBrGFOf5At+l5w==
+gatsby-theme-i18n-lingui@3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-i18n-lingui/-/gatsby-theme-i18n-lingui-3.0.0.tgz#144495c6cde82785d396f10879950c628f400a17"
+  integrity sha512-2zEafRXJHFUDcO9yVB2M63lsCgPlZHPdF4b4B5EpfgfMQVa/kj31c25Zhi6NU+7fDUTXgT4N25Rxz2qsaVTRCw==
 
 gatsby-theme-i18n@3.0.0:
   version "3.0.0"
